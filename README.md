@@ -1,6 +1,16 @@
 # AccuKnox Assessment
 
-Instructions for running:
+## To Run in Local Environment
 
-`$npm i`
-`npm run dev`
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/jay4nth/accuknox-dashboard.git
+   ```
+2. **Install dependencies**:
+   ```bash
+   npm install
+   ```
+3. **Run the application**:
+   ```bash
+   npm run dev
+   ```
