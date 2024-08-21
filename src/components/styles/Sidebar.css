@@ -1,0 +1,30 @@
+.sidebar {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 300px;
+    height: 100%;
+    background: #fff;
+    box-shadow: -2px 0 5px rgba(0, 0, 0, 0.2);
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .sidebar-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    background-color: #007bff;
+    padding: 10px;
+    color: white;
+    
+  }
+  
+  
+  .sidebar input,
+  .sidebar textarea {
+    margin-bottom: 10px;
+    padding: 10px;
+  }
+  
